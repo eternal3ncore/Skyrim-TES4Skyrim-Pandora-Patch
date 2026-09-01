@@ -1,0 +1,6 @@
+.pandora-reference/
+bin/
+obj/
+dist/
+*.user
+*.suo
