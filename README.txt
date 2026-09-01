@@ -1,3 +1,5 @@
+Made from TES4Skyrim 0.629
+
 TES4ConverterPandoraPatch_v0_3 - source/build package
 
 Successful build output:
